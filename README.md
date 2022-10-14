@@ -14,6 +14,9 @@ IBM SLACKATHON
 
 ## Short description
 ### What's the problem?
+
+There are multiple problems holding inventory as there are a lot of factors that are involved in it from a Manufacturing to transportation to warehouse to expiry and sales of that product. Some of them are mentioned below that play a critical role in inventory and need to be optimized in order for a company to have good revenue and sales.
+
  1. Limited Visibility
  2. Over stocking
  3. Changing Demand
